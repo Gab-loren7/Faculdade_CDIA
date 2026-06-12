@@ -27,3 +27,7 @@ print('\n') # Apenas para separar conteudo
 
 for idx, nome in df["Nome"].items():
     print (f"indice: {idx}, Nome: {nome}")
+
+
+for index , nota in df.iterrows():
+    print(index, df)
