@@ -1,0 +1,6 @@
+Matplotlib é uma biblioteca de visualização que permite a
+geração de gráficos e visualização dos dados.
+
+Seaborn é uma alternativa que usa a matplotlib como base,
+permitindo menos controle sobre o resultado final mas
+oferecendo maior estética e facilidade de uso.
